@@ -1,0 +1,7 @@
+# Customizable Widget Dashboard
+
+A customizable widget dashboard project.
+
+## Getting Started
+
+This project is just getting started. More documentation will be added as development progresses.
