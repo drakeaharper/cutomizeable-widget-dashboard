@@ -2,6 +2,12 @@
 
 A React-based customizable widget dashboard with drag-and-drop functionality, built with TypeScript, Bun, and InstUI.
 
+## 🚀 Live Demo
+
+**[View Live Demo](https://drakeaharper.github.io/cutomizeable-widget-dashboard/)**
+
+Try the dashboard live! Click "Edit Mode" to enable drag & drop and widget management features.
+
 ## Features
 
 - **Drag & Drop**: Move widgets between grid positions using react-beautiful-dnd
