@@ -2,7 +2,7 @@
   "name": "customizable-widget-dashboard",
   "version": "1.0.0",
   "private": false,
-  "homepage": "https://yourusername.github.io/customizeable-widget-dashboard",
+  "homepage": "https://drakeaharper.github.io/cutomizeable-widget-dashboard",
   "dependencies": {
     "@instructure/ui": "^10.22.0",
     "@instructure/ui-buttons": "^10.22.0",
